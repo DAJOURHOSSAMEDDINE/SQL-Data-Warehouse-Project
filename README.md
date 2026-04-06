@@ -11,7 +11,9 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
+
 <img width="1131" height="601" alt="Data_Architecture" src="https://github.com/user-attachments/assets/52d0be0b-958f-4613-aafd-25a0b9ca8495" />
+
 
 
 1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -29,7 +31,7 @@ This project involves:
 
 ## Important Links & Tools:
 
-* [Datasets](: Access to the project dataset (csv files).
+* [Datasets](https://github.com/DAJOURHOSSAMEDDINE/SQL-Data-Warehouse-Project/tree/main/Datasets) : Access to the project dataset (csv files).
 * [SQL Server Express](https://www.microsoft.com/en-us/download/details.aspx?id=104781) : Lightweight server for hosting your SQL database.
 * [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install) : GUI for managing and interacting with databases.
 * [Git Repository](https://github.com/) : Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
