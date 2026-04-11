@@ -1,6 +1,6 @@
 /*
 =========================================================================
-                     Datasets Tables Creation
+                     DDL SCRIPT : Create Bronze Tables
 =========================================================================
 
 this script wil create all tables in the bronze schema , droping table if 
